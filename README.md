@@ -24,3 +24,32 @@ A JSON array of records with unique `id`, nonnegative numeric `latency_ms`, `qua
 ## Limitations and next steps
 
 This is batch monitoring, not live observability. No database, FastAPI, React, or Gemini integration is included yet. Later connect real evaluation events, persistent storage, trend charts, and the shared AI QA dashboard.
+
+<!-- PORTFOLIO-OVERVIEW-START -->
+
+## Project overview
+
+Analyze synthetic AI quality traces and offline monitoring examples.
+
+### Technologies and concepts
+
+ - python
+ - ai monitoring
+ - observability
+ - ai evaluation
+ - quality assurance
+
+### Repository information
+
+- **Category:** AI Quality Engineering / Software Testing
+- **Evaluation type:** Offline and/or synthetic fixtures, as documented in this repository
+- **Source code:** [GitHub repository](https://github.com/gireeshvuyyuru501-design/ai-quality-monitor.git)
+- **License:** MIT (subject to repository license file)
+
+### AI Quality Engineering portfolio
+
+This project is part of an 11-project portfolio covering evaluation datasets, structured-output validation, offline scoring, prompt regression, retrieval benchmarking, adversarial testing, agent tool calls, and quality monitoring.
+
+[Explore the integrated AI Quality Engineering Platform](https://github.com/gireeshvuyyuru501-design/ai-quality-engineering-platform)
+
+<!-- PORTFOLIO-OVERVIEW-END -->
