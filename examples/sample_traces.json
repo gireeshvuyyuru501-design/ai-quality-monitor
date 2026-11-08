@@ -1,0 +1,10 @@
+[
+  {"id":"demo-001","latency_ms":420,"quality_score":0.93,"status":"ok"},
+  {"id":"demo-002","latency_ms":610,"quality_score":0.85,"status":"ok"},
+  {"id":"demo-003","latency_ms":1950,"quality_score":0.48,"status":"ok"},
+  {"id":"demo-004","latency_ms":340,"quality_score":0.80,"status":"error"},
+  {"id":"demo-005","latency_ms":720,"quality_score":0.91,"status":"ok"},
+  {"id":"demo-006","latency_ms":510,"quality_score":0.77,"status":"ok"},
+  {"id":"demo-007","latency_ms":430,"quality_score":0.88,"status":"ok"},
+  {"id":"demo-008","latency_ms":890,"quality_score":0.65,"status":"ok"}
+]
